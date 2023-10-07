@@ -3,5 +3,5 @@
 
 ## My works
 
-<https://yuma14.net/works/>
-<https://yuma14.net/apps/>
+- <https://yuma14.net/works/>
+- <https://yuma14.net/apps/>
