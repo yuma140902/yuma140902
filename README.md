@@ -1,4 +1,4 @@
-[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuma140902&theme=github)](#)
+[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuma140902&theme=github)](#)
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuma140902&theme=github)](#)
 
 ## My works
